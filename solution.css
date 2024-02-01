@@ -1,0 +1,36 @@
+.name {
+    color: white;
+    background-color: red;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+    border: 5px solid black;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.container {
+    flex-direction: row;
+    display: flex;
+}
+
+* {
+    text-align: center;
+}
+
+
+p {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+
+#image {
+    width: 400px;
+    height: 200px;
+}

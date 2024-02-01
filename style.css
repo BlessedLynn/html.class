@@ -1,0 +1,31 @@
+#link {
+    background-color: red;
+    border: 1px solid black;
+    text-align: center;
+    color: white; 
+    padding:20px;
+}
+
+
+* {
+    text-align: center;
+}
+
+
+h2 {
+    background-color:red;
+    border: 1px solid black;
+    padding: 20px;
+    color: white; 
+}
+
+h3 {
+    background-color:red;
+    border: 1px solid black;
+    padding: 20px;
+    color: white; 
+}
+    
+
+    
+
